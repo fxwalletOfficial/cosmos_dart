@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 import 'package:convert/convert.dart';
 import 'package:pointycastle/export.dart';
 

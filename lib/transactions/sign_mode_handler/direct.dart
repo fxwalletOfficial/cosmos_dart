@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 
 /// [DirectSignModeHandler] defines the [SIGN_MODE_DIRECT] [SignModeHandler].
 class DirectSignModeHandler extends SignModeHandler {

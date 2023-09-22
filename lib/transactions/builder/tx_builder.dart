@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 import 'package:fixnum/fixnum.dart' as fixnum;
 import 'package:protobuf/protobuf.dart';
 

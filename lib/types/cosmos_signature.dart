@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 import 'package:fixnum/fixnum.dart' as fixnum;
 
 /// [SignatureV2] is a convenience type that is easier to use in application

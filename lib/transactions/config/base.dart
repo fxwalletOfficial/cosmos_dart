@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 
 /// [TxConfig] defines an interface a client can utilize to generate an
 /// application-defined concrete transaction type. The type returned must

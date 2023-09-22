@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 
 /// [SignModeHandler] defines a interface to be implemented by types which
 /// will handle [SignMode]'s by generating sign bytes

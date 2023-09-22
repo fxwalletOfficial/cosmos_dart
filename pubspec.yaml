@@ -1,7 +1,7 @@
-name: alan
+name: cosmos_dart
 description: Pure Dart library to easily integrate with any Cosmos-based chain.
 version: 1.0.0
-homepage: https://github.com/alan-sdk/alan.dart
+homepage: https://github.com/fxwalletOfficial/cosomos_dart.dart
 environment:
   sdk: ">=2.12.0 <3.0.0"
 

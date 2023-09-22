@@ -1,4 +1,4 @@
-import 'package:alan/cosmos_dart.dart';
+import 'package:cosmos_dart/cosmos_dart.dart';
 
 /// Extends [TxResponse] with useful methods.
 extension TxResponseExt on TxResponse {
