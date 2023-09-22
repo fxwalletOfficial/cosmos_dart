@@ -1,4 +1,4 @@
-import 'package:alan/alan.dart';
+import 'package:alan/cosmos_dart.dart';
 import 'package:fixnum/fixnum.dart';
 import 'package:alan/proto/cosmos/auth/v1beta1/auth.pb.dart' as auth;
 

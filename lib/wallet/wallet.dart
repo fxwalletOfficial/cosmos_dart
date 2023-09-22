@@ -1,7 +1,8 @@
 import 'dart:typed_data';
 
-import 'package:alan/alan.dart';
+import 'package:alan/cosmos_dart.dart';
 import 'package:alan/wallet/bech32_encoder.dart';
+import 'package:alan/wallet/network_info.dart';
 import 'package:equatable/equatable.dart';
 import 'package:hex/hex.dart';
 import 'package:pointycastle/export.dart';

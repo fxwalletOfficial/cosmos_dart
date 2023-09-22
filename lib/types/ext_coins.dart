@@ -1,4 +1,4 @@
-import 'package:alan/alan.dart';
+import 'package:alan/cosmos_dart.dart';
 
 /// Contains the data of a specific coin amount.
 extension CoinExt on Coin {

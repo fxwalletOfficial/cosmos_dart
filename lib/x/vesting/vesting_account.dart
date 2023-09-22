@@ -1,4 +1,4 @@
-import 'package:alan/alan.dart';
+import 'package:alan/cosmos_dart.dart';
 import 'package:fixnum/fixnum.dart';
 import 'package:alan/proto/cosmos/vesting/v1beta1/export.dart' as vesting;
 
